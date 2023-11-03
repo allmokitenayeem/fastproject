@@ -1,0 +1,240 @@
+@media (min-width:1400px){
+
+} 
+@media (min-width:1200px) and (max-width:1399px){
+    .front_img{
+        width: 660px;
+    }
+}
+@media (min-width:992px) and (max-width:1199px){
+    .front_img{
+        width: 580px;
+    }
+    .exclent_con{
+        padding-top: 70px;
+    }
+}
+@media (min-width:768px) and (max-width:991px){
+    .real_img{
+        padding-top: 50px;
+    }
+    .real_head{
+        padding: 50px 50px;
+    }
+    .front_img{
+        width: 450px;
+    }
+    .text_box_con h3{
+        font-size: 20px;
+        margin-bottom: 0px;
+    }
+    .text_box_con p{
+        font-size: 14px;
+    }
+    .video_prestation_part_con{
+        padding: 100px 80px;
+    }
+    .exclent_con{
+        padding-top: 0px;
+    }
+    .hand_img{
+        padding-top: 100px;
+    }
+    .recent_top{
+        padding-left:50px;
+        padding-right: 50px;
+        padding-top: 25px;
+        padding-bottom: 25px;
+    }
+    .copyright_part_main{
+        justify-content: space-around;
+    }
+    .copyright_left a{
+        padding-right: 8px;
+    }
+}
+@media (min-width:576px) and (max-width:767px){
+    .carousel_text{
+        padding:150px 50px;
+    }
+    .front_img{
+        width: 330px;
+    }
+    .real_head{
+        padding: 20px 5px;
+    }
+    .real_img{
+        padding-top: 60px;
+    }
+    .text_box_con h3{
+        font-size: 14px;
+        margin-bottom: 0px;
+    }
+    .text_box_con p{
+        font-size: 10px;
+    }
+    .text_box_btn{
+        padding-top: 0px;
+    }
+    .latest_head{
+        padding-top: 50px;
+        padding-right: 15px;
+        padding-left: 15px;
+        padding-bottom: 10px;
+    }
+    .latest_project_btn{
+        padding: 25px;
+    }
+    .video_prestation_part_con{
+        padding: 30px 5px;
+    }
+    .execlent_rr{
+        flex-direction: column-reverse;
+    }
+    .exclent_con{
+        padding-top: 0px;
+    }
+    .hand_img{
+        padding-top: 25px;
+    }
+    .counter_icon{
+        font-size: 30px;
+    }
+    .conunter_part_main{
+        padding: 10px 0px;
+    }
+    .counter_part_con h1{
+        font-size: 20px;
+    }
+    .counter_part_con p{
+        font-size: 12px;
+    }
+    .counter_part_underline{
+        height: 1px;
+    }
+    .recent_top{
+        padding-left:0px;
+        padding-right: 0px;
+        padding-top: 25px;
+        padding-bottom: 15px;
+    }
+    .patner_part_main{
+        padding: 70px 20px;
+    }
+    .patner_logo{
+        padding: 0px;
+    }
+}
+@media (min-width:320px) and (max-width:575px){
+    .carousel_text{
+        padding:140px 0px;
+    }
+    .carousel_text h1{
+        font-size: 20px;
+    }
+    .carousel_text h3{
+        font-size: 20px;
+    }
+    .carousel_text p{
+        font-size: 10px;
+        padding: 1% 14%;
+    }
+    
+    .real_head{
+        padding: 20px 0px;
+    }
+    .real_head h2{
+        font-size: 16px;
+    }
+    .real_head p{
+        font-size: 12px;
+    }
+    .front_img{
+        width: 200px;
+    }
+    .real_img{
+        padding-top: 25px;
+    }
+    .text_box_con{
+        text-align: center;
+    }
+    .latest_head{
+        padding-top: 20px;
+        padding-right: 0px;
+        padding-left: 0px;
+        padding-bottom: 0px;
+    }
+    .latest_head h2{
+        font-size: 16px;
+    }
+    .latest_head p{
+        font-size: 12px;
+    }
+    .latest_project_btn{
+        padding: 10px;
+    }
+    .video_prestation_part_con{
+        padding: 20px 0px;
+    }
+    .video_icon a{
+        font-size: 30px;
+    }
+    .video_con h3{
+        font-size: 20px;
+    }
+    .video_con p{
+        font-size: 12px;
+    }
+    .execlent_rr{
+        flex-direction: column-reverse;
+    }
+    .exclent_con{
+        padding-top: 0px;
+    }
+    .exclent_part_main{
+        padding-top: 20px;
+    }
+    .exclent_point_part{
+        padding-left: 20px;
+        padding-top: 0px;
+    }
+    .hand_img{
+        padding-top: 35px;
+    }
+    .counter_icon{
+        font-size: 18px;
+    }
+    .conunter_part_main{
+        padding: 10px 0px;
+    }
+    .counter_part_con h1{
+        font-size: 14px;
+    }
+    .counter_part_con p{
+        font-size: 10px;
+    }
+    .counter_part_underline{
+        height: 1px;
+    }
+    .recent_top{
+        padding-top: 20px;
+        padding-right: 0px;
+        padding-left: 0px;
+        padding-bottom: 0px;
+    }
+    .recent_top h2{
+        font-size: 20px;
+    }
+    .recent_top p{
+        font-size: 12px;
+    }
+    .patner_part_main{
+        padding: 40px 0px;
+    }
+    .patner_logo{
+        padding: 10px;
+    }
+    .copyright_part_main{
+        display: flow-root;
+    }
+}
